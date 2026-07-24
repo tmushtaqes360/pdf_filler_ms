@@ -1,0 +1,3 @@
+name = "pdffillerms"
+main = "src/index.js"          # ← change this to your actual entry file
+compatibility_date = "2026-07-24"
