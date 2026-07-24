@@ -1,4 +1,0 @@
-name = "pdffillerms"
-main = "src/index.js"
-compatibility_date = "2026-07-24"
-compatibility_flags = ["nodejs_compat"]
